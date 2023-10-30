@@ -1,0 +1,4 @@
+Todo list
+Learn Git
+Learn Docker
+Learn Jenkins
